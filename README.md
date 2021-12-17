@@ -125,8 +125,7 @@ public class MinIoClientConfig {
 }
 ```
 - MinioController
-```
-
+```java
 @RestController
 @RequestMapping("/files")
 public class MinioController {
