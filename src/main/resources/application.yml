@@ -1,0 +1,9 @@
+
+minio:
+  endpoint: http://IP:PROT
+  bucket: bucket名字
+  access-key: 你的公钥
+  secret-key: 你的私钥
+
+server:
+  port: 8080
